@@ -1,0 +1,1 @@
+\\vmware-host\Shared Folders\Documents\Visual Studio 2013\Projects\SydMobNet2.AMS\SydMobNet2.AMS.iOS\bin\iPhone\Debug\SydMobNet2AMSiOS.exe.config
